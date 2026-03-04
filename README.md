@@ -36,3 +36,7 @@ To build an analytical framework that:
 - Highlighted pricing tiers contributing most to total revenue  
 - Supported strategic inventory and pricing decisions  
 - Enabled structured, data-driven retail performance reporting  
+
+## Screenshop
+
+![Dashboard Preview](
