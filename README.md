@@ -39,4 +39,4 @@ To build an analytical framework that:
 
 ## Screenshop
 
-![Dashboard Preview](
+![Dashboard Preview](https://github.com/Harshnd2004/Zara-Retail-Sales-Analysis/blob/main/Snapshot%20of%20zara%20Dashboard.PNG)
